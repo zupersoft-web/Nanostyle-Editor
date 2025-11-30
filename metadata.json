@@ -1,0 +1,5 @@
+{
+  "name": "NanoStyle Editor",
+  "description": "Transform your photos using text prompts powered by Gemini 2.5 Flash Image. Simply upload a photo and describe how you want to change it.",
+  "requestFramePermissions": []
+}
